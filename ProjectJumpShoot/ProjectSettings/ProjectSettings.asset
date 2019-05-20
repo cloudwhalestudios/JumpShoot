@@ -849,10 +849,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: de43f2dd-49d6-48f5-ba5f-8b2bcfbfdbf6
   framebufferDepthMemorylessMode: 0
-  projectName: ForAssetStore_04
-  organizationId: 
+  projectName: 2ButtonJumpShoot
+  organizationId: cloudwhale
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
